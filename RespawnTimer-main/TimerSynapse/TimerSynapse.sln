@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerSynapse", "TimerSynapse.csproj", "{CBC0C0B1-8C53-4DD6-BC79-03CA18FC725B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC0C0B1-8C53-4DD6-BC79-03CA18FC725B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC0C0B1-8C53-4DD6-BC79-03CA18FC725B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC0C0B1-8C53-4DD6-BC79-03CA18FC725B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC0C0B1-8C53-4DD6-BC79-03CA18FC725B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7E2372-C398-4BF5-B8BA-81C09D6A585C}
+	EndGlobalSection
+EndGlobal
